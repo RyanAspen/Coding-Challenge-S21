@@ -26,3 +26,6 @@ Regardless if you can or cannot answer the question, provide a short explanation
 ## My Explanation
 
 First, I did some research as to what circular genome maps or genbank file are, as I had never heard either term before. After that, the vast majority of the time that I spent for this project was on finding the best tools to create the circular genome map. For at least a few days, I was stuck on a module called nxviz, which can be used to create Circos plots. After some issues with installation, I found that the module does not easily plot the kind of diagrams that I wanted to get. I eventually found a module called GenomeDiagram on Github along with a nice tutorial on TutorialPoint (https://www.tutorialspoint.com/biopython/biopython_genome_analysis.htm). There was not much to do after this, as the tutorial fit very well with what I wanted to accompish. I just had to make a few modifications to work with the specific genbank file provided. I then added some comments to make my code extra clear.
+
+ACMResearchCodeChallenge.py -> holds code for creating the diagram
+circularGenomeMap.png -> diagram requested
